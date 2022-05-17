@@ -60,6 +60,3 @@ def pregunta_02():
         params = params - learning_rate * gradient
         
     return params
-
-if __name__ == "__main__":
-    print(pregunta_02())
